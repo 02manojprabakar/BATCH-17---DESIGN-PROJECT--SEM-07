@@ -1,5 +1,5 @@
 For setting up environment, please read `SETUP.md`
-# This is Manoj Prabakar design project IV year - VII semester
+
 # Polyp Localization and Detection
 
 
@@ -79,7 +79,7 @@ python3 main.py -d polyps -a fcn8s -b 100  -e 20
 
 Code is available for both Faster R-CNN and SSD. But I used SSD for the task of detecting polyps.
 
-
+All the results and models can be downloaded from [here](https://drive.google.com/file/d/1Fb9XrDYKtzJiysEi79dC_NZlsrgUr-9o/view?usp=sharing).
 No pretrained models were used. Everything is trained from scratch.
 
 
@@ -90,29 +90,29 @@ No pretrained models were used. Everything is trained from scratch.
 
 ##### Succesful Cases (Benchmark Dataset CVC Colon)
 <p float="left">
-<img src="images/CVC/1.png" width="30%" />
-<img src="images/CVC/2.png" width="30%" />
-<img src="images/CVC/3.png" width="30%" />
+<img src="/images/cvc/8.png" width="30%" />
+<img src="/images/cvc/2.png" width="30%" />
+<img src="/images/cvc/3.png" width="30%" />
 </p>
 
 <p float="left">
-<img src="images/CVC/4.png" width="30%" />
-<img src="images/CVC/5.png" width="30%" />
-<img src="images/CVC/1.png" width="30%" />
+<img src="/images/cvc/4.png" width="30%" />
+<img src="/images/cvc/5.png" width="30%" />
+<img src="/images/cvc/111.png" width="30%" />
 </p>
 
 
 <!--
 ##### Succesful Cases (Hospital Dataset)
 <p float="left">
-<img src="images/hospital/h1.png" width="30%" />
-<img src="images/hospital/h2.png" width="30%" />
-<img src="images/hospital/h3.png" width="30%" />
+<img src="/images/hospital/h1.png" width="30%" />
+<img src="/images/hospital/h2.png" width="30%" />
+<img src="/images/hospital/h3.png" width="30%" />
 </p>
 <p float="left">
-<img src="images/hospital/h4.png" width="30%" />
-<img src="images/hospital/h5.png" width="30%" />
-<img src="images/hospital/h1.png" width="30%" />
+<img src="/images/hospital/h4.png" width="30%" />
+<img src="/images/hospital/h5.png" width="30%" />
+<img src="/images/hospital/h6.png" width="30%" />
 </p>
 -->
 
@@ -122,27 +122,27 @@ No pretrained models were used. Everything is trained from scratch.
 
 #####  Failure Cases (Benchmark Dataset CVC Colon)
 <p float="left">
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/cvc/e4.png" width="30%" />
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/cvc/112.png" width="30%" />
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/cvc/113.png" width="30%" />
+<img src="/images/cvc/e4.png" width="30%" />
+<img src="/images/cvc/112.png" width="30%" />
+<img src="/images/cvc/113.png" width="30%" />
 </p>
 
 <p float="left">
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/cvc/e4.png" width="30%" />
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/cvc/e5.png" width="30%" />
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/cvc/e6.png" width="30%" />
+<img src="/images/cvc/e4.png" width="30%" />
+<img src="/images/cvc/e5.png" width="30%" />
+<img src="/images/cvc/e6.png" width="30%" />
 </p>
 
 <!--
 ##### Failure Cases (Hospital Dataset)
 <p float="left">
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/hospital/h1.png" width="30%" />
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/hospital/h2.png" width="30%" />
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/hospital/h3.png" width="30%" />
+<img src="/images/hospital/h1.png" width="30%" />
+<img src="/images/hospital/h2.png" width="30%" />
+<img src="/images/hospital/h3.png" width="30%" />
 </p>
 <p float="left">
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/hospital/h4.png" width="30%" />
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/hospital/h5.png" width="30%" />
-<img src="C:/Users/MANOJ PRABAKAR B/Downloads/images/hospital/h6.png" width="30%" />
+<img src="/images/hospital/h4.png" width="30%" />
+<img src="/images/hospital/h5.png" width="30%" />
+<img src="/images/hospital/h6.png" width="30%" />
 </p>
 -->
